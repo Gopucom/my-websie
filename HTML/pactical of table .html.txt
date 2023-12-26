@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> Practical of table</title>
+</head>
+<body>
+<table>
+<th> 1 </th>
+<th> 2</th>
+<th>3</th>
+<th>4</th>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>8</td>
+</table>
+</body>
+</html>
